@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sugg",
+				"suggestion"
+			],
+			[
+				"su",
+				"suggestion"
+			],
+			[
+				"s",
+				"suggestion"
+			],
+			[
+				"sug",
+				"suggestion"
+			],
+			[
+				"Tom",
+				"token_name"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"ses",
+				"session_unset"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"msg",
+				"msgClass"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"fomr",
+				"form-control"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"lo",
+				"loggedIn"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"trim",
+				"trimmed"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tim",
+				"timestamp3"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"time",
+				"timestamp2"
+			],
+			[
+				"red",
+				"red"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"n",
+				"num1"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"st",
+				"string2"
+			],
+			[
+				"strin",
+				"stirng1"
+			],
+			[
+				"spe",
+				"speechRecognizer"
+			],
+			[
+				"is",
+				"isFinal"
+			],
+			[
+				"spee",
+				"speechResult"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/phpsandbox/website6"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/phpsandbox/website6/index.php",
+		"/C/xampp/htdocs/phpsandbox/website6/suggest.php",
+		"/C/xampp/htdocs/phpsandbox/website5/page1.php",
+		"/C/xampp/htdocs/phpsandbox/website5/page2.php",
+		"/C/xampp/htdocs/phpsandbox/website5/page3.php",
+		"/C/xampp/htdocs/phpsandbox/website4/page4.php",
+		"/C/xampp/htdocs/phpsandbox/website4/page3.php",
+		"/C/xampp/htdocs/phpsandbox/website4/page2.php",
+		"/C/xampp/htdocs/phpsandbox/website4/page1.php",
+		"/C/xampp/htdocs/phpsandbox/website3/index.php",
+		"/C/xampp/htdocs/phpsandbox/shorthands.php",
+		"/C/xampp/htdocs/phpsandbox/filters.php",
+		"/C/xampp/htdocs/phpsandbox/get_post.php",
+		"/C/xampp/htdocs/phpsandbox/stringfunctions.php",
+		"/C/xampp/htdocs/phpsandbox/website2/index.php",
+		"/C/xampp/htdocs/phpsandbox/website2/server-info.php",
+		"/C/xampp/htdocs/phpsandbox/website1/index.php",
+		"/C/xampp/htdocs/phpsandbox/website1/about.php",
+		"/C/xampp/htdocs/phpsandbox/website1/contact.php",
+		"/C/xampp/htdocs/phpsandbox/website1/inc/header.php",
+		"/C/xampp/htdocs/phpsandbox/website1/inc/footer.php",
+		"/C/xampp/htdocs/phpsandbox/variables.php",
+		"/C/xampp/htdocs/phpsandbox/arrays.php",
+		"/C/xampp/htdocs/phpsandbox/loops.php",
+		"/C/xampp/htdocs/phpsandbox/functions.php",
+		"/C/xampp/htdocs/phpsandbox/conditionals.php",
+		"/C/xampp/htdocs/phpsandbox/dates.php",
+		"/C/xampp/htdocs/newDI/DI/resources/views/home.blade.php",
+		"/C/xampp/htdocs/newDI/DI/resources/views/editor.blade.php",
+		"/C/xampp/htdocs/newDI/DI/public/samAdds/editor/index.php",
+		"/C/xampp/htdocs/newDI/DI/public/shamiAdds/speechEngine/index.php",
+		"/C/xampp/htdocs/newDI/DI/public/index.php",
+		"/C/xampp/htdocs/newDI/DI/public/re_sources/js/new-age.js",
+		"/C/xampp/htdocs/DI/public/re_sources/css/new-age.min.css",
+		"/C/xampp/htdocs/DI/public/re_sources/js/new-age.js",
+		"/C/xampp/htdocs/DI/public/index.php",
+		"/C/xampp/htdocs/DI/resources/views/home.blade.php",
+		"/C/xampp/htdocs/DI/public/re_sources/css/new-age.css",
+		"/C/xampp/htdocs/DI/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\t",
+			" ",
+			"ownload bg-primary text-center",
+			"download bg-primary text-center",
+			"badge-link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "variables.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
